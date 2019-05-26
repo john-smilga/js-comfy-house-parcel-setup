@@ -11,7 +11,7 @@ you have two options of running the project
 
 Using local data (default option) :
 
-1)for local development
+1. for local development
 
 #### NPM START
 
