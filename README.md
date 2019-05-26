@@ -10,6 +10,7 @@ you have two options of running the project
 2. Using contenful data
 
 Using local data (default option) :
+
 1)for local development
 
 #### NPM START
