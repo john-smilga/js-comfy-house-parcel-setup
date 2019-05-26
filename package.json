@@ -1,0 +1,23 @@
+{
+  "name": "comfy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel ./src/index.html build -d public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "contentful": "^7.6.0",
+    "core-js": "^3.1.2"
+  }
+}
