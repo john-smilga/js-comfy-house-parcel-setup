@@ -1,1 +1,1 @@
-# Vanilla Javascript Comfy Hou
+## Vanilla Javascript Comfy House Parcel Setup
